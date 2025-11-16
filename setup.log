@@ -1,0 +1,157 @@
+Sun Nov 16 19:04:20 WAT 2025: [0;32m[SUCCESS][0m The setup.sh file is running...
+Sun Nov 16 19:04:20 WAT 2025: [0;32m[SUCCESS][0m The virtual environmant already exists in this project folder!
+Sun Nov 16 19:04:21 WAT 2025: [0;32m[SUCCESS][0m The virtual environment has been successfully activated in this project folder.
+Sun Nov 16 19:06:57 WAT 2025: [0;32m[SUCCESS][0m The setup.sh file is running...
+Sun Nov 16 19:06:57 WAT 2025: [0;32m[SUCCESS][0m The virtual environmant already exists in this project folder!
+Sun Nov 16 19:06:57 WAT 2025: [0;32m[SUCCESS][0m The virtual environment has been successfully activated in this project folder.
+Sun Nov 16 19:06:57 WAT 2025: [0;34m[INFO][0m About to upgrade pip to its latest version. Wait a little while...
+Sun Nov 16 19:07:12 WAT 2025: [0;32m[SUCCESS][0m ...Pip has been successfully upgraded in this project folder.
+Sun Nov 16 19:07:12 WAT 2025: [0;31m[ERROR][0m The file .gitignore does not exists in your project folder. Create this file!
+Sun Nov 16 19:07:12 WAT 2025: [0;32m[SUCCESS][0m The file .gitignore was successfully created.
+Sun Nov 16 19:07:12 WAT 2025: [0;32m[SUCCESS][0m Installing package: pandas 
+Sun Nov 16 19:08:24 WAT 2025: [0;32m[SUCCESS][0m pandas has been installed successfully!
+Sun Nov 16 19:08:24 WAT 2025: [0;32m[SUCCESS][0m Installing package: requests 
+Sun Nov 16 19:08:40 WAT 2025: [0;32m[SUCCESS][0m requests has been installed successfully!
+Sun Nov 16 19:08:40 WAT 2025: [0;32m[SUCCESS][0m Installing package: matplotlib 
+Sun Nov 16 19:09:51 WAT 2025: [0;32m[SUCCESS][0m matplotlib has been installed successfully!
+Sun Nov 16 19:09:51 WAT 2025: [0;32m[SUCCESS][0m Installing package: seaborn 
+Sun Nov 16 19:09:56 WAT 2025: [0;32m[SUCCESS][0m seaborn has been installed successfully!
+Sun Nov 16 19:09:56 WAT 2025: [0;32m[SUCCESS][0m The setup is complete!
+Sun Nov 16 19:26:10 WAT 2025: [SUCCESS] The setup.sh file is running...
+Sun Nov 16 19:27:07 WAT 2025: [SUCCESS] The setup.sh file is running...
+Sun Nov 16 19:27:07 WAT 2025: [WARNING] The virtual environment was not found. Create a Virtual environment to continue...
+Sun Nov 16 19:27:15 WAT 2025: [SUCCESS] The virtual environment was successfully created in this project folder.
+Sun Nov 16 19:27:15 WAT 2025: [SUCCESS] The virtual environment has been successfully activated in this project folder.
+Sun Nov 16 19:27:15 WAT 2025 [INFO] About to upgrade pip to its latest version. Wait a little while...
+Sun Nov 16 19:27:18 WAT 2025: [SUCCESS] ...Pip has been successfully upgraded in this project folder.
+Sun Nov 16 19:27:18 WAT 2025: [ERROR] The file .gitignore does not exists in your project folder. Create this file!
+Sun Nov 16 19:27:18 WAT 2025: [SUCCESS] The file .gitignore was successfully created.
+Sun Nov 16 19:27:18 WAT 2025: [SUCCESS] Installing package: pandas 
+Sun Nov 16 19:27:37 WAT 2025: [SUCCESS] pandas has been installed successfully!
+Sun Nov 16 19:27:37 WAT 2025: [SUCCESS] Installing package: requests 
+Sun Nov 16 19:27:41 WAT 2025: [SUCCESS] requests has been installed successfully!
+Sun Nov 16 19:27:41 WAT 2025: [SUCCESS] Installing package: matplotlib 
+Sun Nov 16 19:27:50 WAT 2025: [SUCCESS] matplotlib has been installed successfully!
+Sun Nov 16 19:27:50 WAT 2025: [SUCCESS] Installing package: seaborn 
+Sun Nov 16 19:27:52 WAT 2025: [SUCCESS] seaborn has been installed successfully!
+Sun Nov 16 19:27:52 WAT 2025: [SUCCESS] The setup is complete!
+Sun Nov 16 19:42:47 WAT 2025: [SUCCESS] The setup.sh file is running...
+Sun Nov 16 19:42:47 WAT 2025: [WARNING] The virtual environment was not found. Create a Virtual environment to continue...
+Sun Nov 16 19:42:51 WAT 2025: [SUCCESS] The virtual environment was successfully created in this project folder.
+Sun Nov 16 19:42:51 WAT 2025: [SUCCESS] The virtual environment has been successfully activated in this project folder.
+Sun Nov 16 19:42:51 WAT 2025 [INFO] About to upgrade pip to its latest version. Wait a little while...
+Sun Nov 16 19:42:55 WAT 2025: [SUCCESS] ...Pip has been successfully upgraded in this project folder.
+Sun Nov 16 19:42:55 WAT 2025: [ERROR] The file .gitignore does not exists in your project folder. Create this file!
+Sun Nov 16 19:42:55 WAT 2025: [SUCCESS] The file .gitignore was successfully created.
+Sun Nov 16 19:42:55 WAT 2025: [SUCCESS] Installing package:  pandas 
+Sun Nov 16 19:43:14 WAT 2025: [SUCCESS]  pandas has been installed successfully!
+Sun Nov 16 19:43:14 WAT 2025: [SUCCESS] Installing package: requests 
+Sun Nov 16 19:43:22 WAT 2025: [SUCCESS] requests has been installed successfully!
+Sun Nov 16 19:43:22 WAT 2025: [SUCCESS] Installing package: matplotlib 
+Sun Nov 16 19:43:33 WAT 2025: [SUCCESS] matplotlib has been installed successfully!
+Sun Nov 16 19:43:33 WAT 2025: [SUCCESS] Installing package: seaborn  
+Sun Nov 16 19:43:36 WAT 2025: [SUCCESS] seaborn  has been installed successfully!
+Sun Nov 16 19:43:36 WAT 2025: [SUCCESS] The setup is complete!
+Sun Nov 16 19:45:09 WAT 2025: [SUCCESS] The setup.sh file is running...
+Sun Nov 16 19:45:09 WAT 2025: [SUCCESS] The virtual environmant already exists in this project folder!
+Sun Nov 16 19:45:09 WAT 2025: [SUCCESS] The virtual environment has been successfully activated in this project folder.
+Sun Nov 16 19:45:09 WAT 2025 [INFO] About to upgrade pip to its latest version. Wait a little while...
+Sun Nov 16 19:45:11 WAT 2025: [SUCCESS] ...Pip has been successfully upgraded in this project folder.
+Sun Nov 16 19:45:11 WAT 2025: [WARNING] The file .gitignore already exists in your project folder!
+Sun Nov 16 19:45:11 WAT 2025: [SUCCESS] Installing package:  pandas 
+Sun Nov 16 19:45:12 WAT 2025: [SUCCESS]  pandas has been installed successfully!
+Sun Nov 16 19:45:12 WAT 2025: [SUCCESS] Installing package: requests 
+Sun Nov 16 19:45:12 WAT 2025: [SUCCESS] requests has been installed successfully!
+Sun Nov 16 19:45:12 WAT 2025: [SUCCESS] Installing package: matplotlib 
+Sun Nov 16 19:45:13 WAT 2025: [SUCCESS] matplotlib has been installed successfully!
+Sun Nov 16 19:45:13 WAT 2025: [SUCCESS] Installing package: seaborn  
+Sun Nov 16 19:45:14 WAT 2025: [SUCCESS] seaborn  has been installed successfully!
+Sun Nov 16 19:45:14 WAT 2025: [SUCCESS] The setup is complete!
+Sun Nov 16 19:54:40 WAT 2025: [SUCCESS] The setup.sh file is running...
+Sun Nov 16 19:54:40 WAT 2025: [SUCCESS] The virtual environmant already exists in this project folder!
+Sun Nov 16 20:10:41 WAT 2025: [SUCCESS] The setup.sh file is running...
+Sun Nov 16 20:10:41 WAT 2025: [WARNING] The virtual environment was not found. Create a Virtual environment to continue...
+Sun Nov 16 20:10:44 WAT 2025: [SUCCESS] The virtual environment was successfully created in this project folder.
+Sun Nov 16 20:10:44 WAT 2025: [SUCCESS] The virtual environment has been successfully activated in this project folder.
+Sun Nov 16 20:10:44 WAT 2025: [INFO] About to upgrade pip to its latest version. Wait a little while...
+Sun Nov 16 20:10:45 WAT 2025: [SUCCESS] ...Pip has been successfully upgraded in this project folder.
+Sun Nov 16 20:10:45 WAT 2025: [WARNING] The file .gitignore already exists in your project folder!
+Sun Nov 16 20:10:45 WAT 2025: [SUCCESS] Installing package:  pandas 
+Sun Nov 16 20:10:46 WAT 2025: [SUCCESS]  pandas has been installed successfully!
+Sun Nov 16 20:10:46 WAT 2025: [SUCCESS] Installing package: requests 
+Sun Nov 16 20:10:47 WAT 2025: [SUCCESS] requests has been installed successfully!
+Sun Nov 16 20:10:47 WAT 2025: [SUCCESS] Installing package: matplotlib 
+Sun Nov 16 20:10:47 WAT 2025: [SUCCESS] matplotlib has been installed successfully!
+Sun Nov 16 20:10:47 WAT 2025: [SUCCESS] Installing package: seaborn  
+Sun Nov 16 20:10:48 WAT 2025: [SUCCESS] seaborn  has been installed successfully!
+Sun Nov 16 20:10:48 WAT 2025: [SUCCESS] The setup is complete!
+Sun Nov 16 20:15:32 WAT 2025: [SUCCESS] The setup.sh file is running...
+Sun Nov 16 20:15:32 WAT 2025: [SUCCESS] The virtual environment already exists in this project folder!
+Sun Nov 16 20:15:32 WAT 2025: [SUCCESS] The virtual environment has been successfully activated in this project folder.
+Sun Nov 16 20:15:32 WAT 2025: [INFO] About to upgrade pip to its latest version. Wait a little while...
+Sun Nov 16 20:15:35 WAT 2025: [SUCCESS] ...Pip has been successfully upgraded in this project folder.
+Sun Nov 16 20:15:35 WAT 2025: [WARNING] The file .gitignore already exists in your project folder!
+Sun Nov 16 20:15:35 WAT 2025: [SUCCESS] Installing package:  pandas 
+Sun Nov 16 20:26:45 WAT 2025: [SUCCESS] The setup.sh file is running...
+Sun Nov 16 20:26:45 WAT 2025: [SUCCESS] The virtual environment already exists in this project folder!
+Sun Nov 16 20:26:45 WAT 2025: [SUCCESS] The virtual environment has been successfully activated in this project folder.
+Sun Nov 16 20:26:45 WAT 2025: [INFO] About to upgrade pip to its latest version. Wait a little while...
+Sun Nov 16 20:26:47 WAT 2025: [SUCCESS] ...Pip has been successfully upgraded in this project folder.
+Sun Nov 16 20:26:47 WAT 2025: [ERROR] The file .gitignore does not exists in your project folder. Create this file!
+Sun Nov 16 20:26:47 WAT 2025: [SUCCESS] The file .gitignore was successfully created.
+Sun Nov 16 20:26:47 WAT 2025: [SUCCESS] Installing package:  pandas 
+Sun Nov 16 20:31:07 WAT 2025: [SUCCESS] The setup.sh file is running...
+Sun Nov 16 20:31:07 WAT 2025: [SUCCESS] The virtual environment already exists in this project folder!
+Sun Nov 16 20:31:07 WAT 2025: [SUCCESS] The virtual environment has been successfully activated in this project folder.
+Sun Nov 16 20:31:07 WAT 2025: [INFO] About to upgrade pip to its latest version. Wait a little while...
+Sun Nov 16 20:31:09 WAT 2025: [SUCCESS] ...Pip has been successfully upgraded in this project folder.
+Sun Nov 16 20:31:09 WAT 2025: [WARNING] The file .gitignore already exists in your project folder!
+Sun Nov 16 20:31:09 WAT 2025: [SUCCESS] Installing package:  pandas 
+Sun Nov 16 20:35:14 WAT 2025: [SUCCESS] The setup.sh file is running...
+Sun Nov 16 20:35:14 WAT 2025: [WARNING] The virtual environment was not found. Create a Virtual environment to continue...
+Sun Nov 16 20:35:18 WAT 2025: [SUCCESS] The virtual environment was successfully created in this project folder.
+Sun Nov 16 20:35:18 WAT 2025: [SUCCESS] The virtual environment has been successfully activated in this project folder.
+Sun Nov 16 20:35:18 WAT 2025: [INFO] About to upgrade pip to its latest version. Wait a little while...
+Sun Nov 16 20:35:21 WAT 2025: [SUCCESS] ...Pip has been successfully upgraded in this project folder.
+Sun Nov 16 20:35:21 WAT 2025: [WARNING] The file .gitignore already exists in your project folder!
+Sun Nov 16 20:35:21 WAT 2025: [SUCCESS] Installing package:  pandas 
+Sun Nov 16 20:35:44 WAT 2025: [SUCCESS]  pandas has been installed successfully!
+Sun Nov 16 20:35:44 WAT 2025: [SUCCESS] Installing package: requests 
+Sun Nov 16 20:35:48 WAT 2025: [SUCCESS] requests has been installed successfully!
+Sun Nov 16 20:35:48 WAT 2025: [SUCCESS] Installing package: matplotlib 
+Sun Nov 16 20:35:58 WAT 2025: [SUCCESS] matplotlib has been installed successfully!
+Sun Nov 16 20:35:58 WAT 2025: [SUCCESS] Installing package: seaborn  
+Sun Nov 16 20:36:00 WAT 2025: [SUCCESS] seaborn  has been installed successfully!
+Sun Nov 16 20:36:00 WAT 2025: [SUCCESS] The setup is complete!
+Sun Nov 16 20:37:56 WAT 2025: [SUCCESS] The setup.sh file is running...
+Sun Nov 16 20:37:56 WAT 2025: [SUCCESS] The virtual environment already exists in this project folder!
+Sun Nov 16 20:37:56 WAT 2025: [SUCCESS] The virtual environment has been successfully activated in this project folder.
+Sun Nov 16 20:37:56 WAT 2025: [INFO] About to upgrade pip to its latest version. Wait a little while...
+Sun Nov 16 20:37:57 WAT 2025: [SUCCESS] ...Pip has been successfully upgraded in this project folder.
+Sun Nov 16 20:37:57 WAT 2025: [WARNING] The file .gitignore already exists in your project folder!
+Sun Nov 16 20:37:57 WAT 2025: [SUCCESS] Installing package:  pandas 
+Sun Nov 16 20:38:01 WAT 2025: [SUCCESS]  pandas has been installed successfully!
+Sun Nov 16 20:38:01 WAT 2025: [SUCCESS] Installing package: requests 
+Sun Nov 16 20:38:02 WAT 2025: [SUCCESS] requests has been installed successfully!
+Sun Nov 16 20:38:02 WAT 2025: [SUCCESS] Installing package: matplotlib 
+Sun Nov 16 20:38:02 WAT 2025: [SUCCESS] matplotlib has been installed successfully!
+Sun Nov 16 20:38:02 WAT 2025: [SUCCESS] Installing package: seaborn  
+Sun Nov 16 20:38:03 WAT 2025: [SUCCESS] seaborn  has been installed successfully!
+Sun Nov 16 20:38:03 WAT 2025: [SUCCESS] The setup is complete!
+Sun Nov 16 20:38:40 WAT 2025: [SUCCESS] The setup.sh file is running...
+Sun Nov 16 20:38:40 WAT 2025: [WARNING] The virtual environment was not found. Create a Virtual environment to continue...
+Sun Nov 16 20:38:44 WAT 2025: [SUCCESS] The virtual environment was successfully created in this project folder.
+Sun Nov 16 20:38:44 WAT 2025: [SUCCESS] The virtual environment has been successfully activated in this project folder.
+Sun Nov 16 20:38:44 WAT 2025: [INFO] About to upgrade pip to its latest version. Wait a little while...
+Sun Nov 16 20:38:48 WAT 2025: [SUCCESS] ...Pip has been successfully upgraded in this project folder.
+Sun Nov 16 20:38:48 WAT 2025: [ERROR] The file .gitignore does not exists in your project folder. Create this file!
+Sun Nov 16 20:38:48 WAT 2025: [SUCCESS] The file .gitignore was successfully created.
+Sun Nov 16 20:38:48 WAT 2025: [SUCCESS] Installing package:  pandas 
+Sun Nov 16 20:39:02 WAT 2025: [SUCCESS]  pandas has been installed successfully!
+Sun Nov 16 20:39:02 WAT 2025: [SUCCESS] Installing package: requests 
+Sun Nov 16 20:39:07 WAT 2025: [SUCCESS] requests has been installed successfully!
+Sun Nov 16 20:39:07 WAT 2025: [SUCCESS] Installing package: matplotlib 
+Sun Nov 16 20:39:23 WAT 2025: [SUCCESS] matplotlib has been installed successfully!
+Sun Nov 16 20:39:23 WAT 2025: [SUCCESS] Installing package: seaborn  
+Sun Nov 16 20:39:25 WAT 2025: [SUCCESS] seaborn  has been installed successfully!
+Sun Nov 16 20:39:25 WAT 2025: [SUCCESS] The setup is complete!
