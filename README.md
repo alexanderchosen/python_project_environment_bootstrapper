@@ -50,6 +50,8 @@ BLUE="\033[0;34m" ========================= INFO
 
 NO_COLOUR="\033[0m" ======================= PLAIN TEXT
 
+---
+
 ## How To Execute It
 
 To execute the setup.sh script, use `./setup.sh`
@@ -103,7 +105,7 @@ Sun Nov 16 19:27:52 WAT 2025: [SUCCESS] The setup is complete!
 ## Challenges Faced and Lessons Learned
 
 1. The first challenge I faced was how to use the colour codes for the various display outputs in my log_message_output function.
-   I initially used the tee -a setup.log command with the echo statement inside each case statement:  `echo -e "$(date): ${GREEN}[SUCCESS]${NO_COLOUR} \ tee -a setup.log`
+   I initially used the tee -a setup.log command with the echo statement inside each case statement:  `echo -e "$(date): ${GREEN}[SUCCESS]${NO_COLOUR} | tee -a setup.log`
    After I ran the setup.sh file and read through the setup.log file, I noticed that it threw an error `command not found`. I was initially confused until I did my research. I got to understand that the `tee -a setup.log` command I used was interpreting the colour variables by outputting their colour code.
    I really wanted to use the CASE statement, so I decided to split both commands, and it worked:
    `echo -e "$(date): ${GREEN}[SUCCESS]${NO_COLOUR} $message"
@@ -111,7 +113,8 @@ Sun Nov 16 19:27:52 WAT 2025: [SUCCESS] The setup is complete!
 
   2. The command `python3 -m pip install --upgrade pip` did a Python-wide level pip install and upgrade, which made pip available beyond the virtual environment.
 
-  3. Since the pip install was initially at the Python-wide level, using pip install "$package" to install some Python packages made the installation global and not strictly for the virtual environment. I had to specify the pip install path: `.venv/bin/pip install "$package".
+  3. Since the pip install was initially at the Python-wide level, using pip install "$package" to install some Python packages made the installation global and not strictly for the virtual environment. I had to specify the pip install path: `.venv/bin/pip install "$package"`.
+
 
 
 
